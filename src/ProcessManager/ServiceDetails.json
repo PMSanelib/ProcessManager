@@ -1,0 +1,16 @@
+{
+  "NginxPath": "C:/Environment/nginx-1.11.3/nginx.exe",
+  "TempPath": "C:/temp",
+  "Services": [
+    {
+      "Name": "jayhawk.com",
+      "FilePath": "C:/Projects/jayhawk/src/Web/bin/Debug/netcoreapp1.0/publish/Web.dll",
+      "Port": 5001
+    },
+    {
+      "Name": "libcloud.com",
+      "FilePath": "C:/Projects/LibCloud/src/LibCloud/bin/Debug/netcoreapp1.0/publish/LibCloud.dll",
+      "Port": 5002
+    }
+  ]
+}
