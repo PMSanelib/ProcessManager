@@ -6,9 +6,9 @@
             "type": "coreclr",
             "request": "launch",
             "preLaunchTask": "build",
-            "program": "${workspaceRoot}\\src\\ProcessManager\\bin\\Debug\\net451\\ProcessManager.exe",
+            "program": "${workspaceRoot}\\src\\ProcessManager\\bin\\Debug\\netcoreapp1.1\\ProcessManager.exe",
             "args": [],
-            "cwd": "${workspaceRoot}\\src\\ProcessManager\\bin\\Debug\\net451",
+            "cwd": "${workspaceRoot}\\src\\ProcessManager\\bin\\Debug\\netcoreapp1.1",
             "externalConsole": false,
             "stopAtEntry": false,
             "internalConsoleOptions": "openOnSessionStart"
