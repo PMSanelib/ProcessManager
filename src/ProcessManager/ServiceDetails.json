@@ -4,12 +4,12 @@
   "Services": [
     {
       "Name": "jayhawk.com",
-      "FilePath": "C:/Projects/jayhawk/src/Web/bin/Debug/netcoreapp1.0/publish/Web.dll",
+      "FilePath": "C:/Code/jayhawk/src/Web/bin/Debug/netcoreapp1.0/publish/Web.dll",
       "Port": 5001
     },
     {
       "Name": "libcloud.com",
-      "FilePath": "C:/Projects/LibCloud/src/LibCloud/bin/Debug/netcoreapp1.0/publish/LibCloud.dll",
+      "FilePath": "C:/Code/LibCloud/src/LibCloud/bin/Debug/netcoreapp1.0/publish/LibCloud.dll",
       "Port": 5002
     }
   ]

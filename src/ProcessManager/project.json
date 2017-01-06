@@ -2,10 +2,9 @@
   "version": "1.0.0-*",
   "description": "Process Manager Application",
   "buildOptions": {
-    "emitEntryPoint": true
+    "emitEntryPoint": true,
+     "copyToOutput": { "includeFiles": [ "ServiceDetails.json" ] }
   },
-
-  "userSecretsId": "aspnet-pm-95d5acb5-90a9-4673-86a4-215248fc75fb",
 
   "dependencies": {
     "Microsoft.Extensions.Configuration": "1.1.0",
@@ -22,7 +21,7 @@
   },
 
   "tools": {
-    "Microsoft.Extensions.SecretManager.Tools": "1.0.0-preview2-final"
+    
   },
 
   "frameworks": {
