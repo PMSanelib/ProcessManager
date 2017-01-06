@@ -3,13 +3,13 @@
   "TempPath": "C:/temp",
   "Services": [
     {
-      "Name": "jayhawk.com",
-      "FilePath": "C:/Code/jayhawk/src/Web/bin/Debug/netcoreapp1.0/publish/Web.dll",
+      "Name": "paypalexpress.com",
+      "FilePath": "C:/Code/apps/paypalexpress/paypalexpress.dll",
       "Port": 5001
     },
     {
       "Name": "libcloud.com",
-      "FilePath": "C:/Code/LibCloud/src/LibCloud/bin/Debug/netcoreapp1.0/publish/LibCloud.dll",
+      "FilePath": "C:/Code/apps/src/libcloud/libcloud.dll",
       "Port": 5002
     }
   ]
